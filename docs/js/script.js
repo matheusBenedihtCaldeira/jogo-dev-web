@@ -94,7 +94,7 @@ function adivinha(nome){
 
     if(rodada > tentativas){
         document.getElementById('historia').innerHTML = `<div class="col-12 fs-6">
-        <div class="row text-center bg-danger"><h1>VOCÊ PERDEU, AS MAQUINAS DOMINARAM O MUNDO E O GEPETTO VIROU O LIDER SUPREMO</h1><div><p class="fst-italic">Recarregue a página para tentar novamente!</p></div></div>
+        <div class="row text-center bg-danger"><h1>VOCÊ PERDEU, AS MAQUINAS DOMINARAM O MUNDO E O GEPPETTO VIROU O LIDER SUPREMO</h1><div><p class="fst-italic">Recarregue a página para tentar novamente!</p></div></div>
         </div>
         
         `
